@@ -2,11 +2,11 @@
 ---
 ## I am a Developer and use this lanuages:
 
-1. HTML – for structuring ideas
-2. CSS(SASS) – for styling them beautifully 
-3. JavaScript – for bringing them to life
-4. Python 🐍 – for logic, automation, and backend power
-5. C++ - for more performance(and because it's cool😃) 
+1. HTML📝: for structuring ideas
+2. CSS(SASS)📕📗📘📙: for styling them beautifully 
+3. JavaScript🧩:  for bringing them to life
+4. Python 🐍: for logic, automation, and backend power
+5. C++🪄: for more performance(and because it's cool😃) 
 
 ## 🚀 Goals
 
