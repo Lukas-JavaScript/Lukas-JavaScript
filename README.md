@@ -6,7 +6,9 @@
 2. CSS(SASS)📕📗📘📙: for styling them beautifully 
 3. JavaScript🧩:  for bringing them to life
 4. Python 🐍: for logic, automation, and backend power
-5. C++🪄: for more performance(and because it's cool😃) 
+5. C++🪄: for more performance(and because it's cool😃)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukas-JavaScript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2">
 
 ## 🚀 Goals
 
