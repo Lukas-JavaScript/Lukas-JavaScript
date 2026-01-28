@@ -13,7 +13,7 @@
         
         
       <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
-        <path d="" fill="#ff8000" opacity="0.4" >
+        <path d="" fill="#1e0963" opacity="0.4" >
           <animate
               attributeName="d"
               dur="20s"
