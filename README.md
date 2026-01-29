@@ -1,5 +1,5 @@
 <img src="top.svg">
-## I am a Developer and use this lanuages:
+I am a Developer and use this lanuages:
 
 1. HTML📝: for structuring ideas
 2. CSS(SASS)📕📗📘📙: for styling them beautifully 
