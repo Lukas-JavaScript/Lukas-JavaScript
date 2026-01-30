@@ -23,3 +23,8 @@ I’m open to feedback and love learning from other developers.
 
 
 I sometimes break code just to learn how to fix it better.
+
+## Snake 🐍
+
+<img src="https://raw.githubusercontent.com/Lukas-JavaScript/Lukas-JavaScript/output/github-contribution-grid-snake.svg">
+
