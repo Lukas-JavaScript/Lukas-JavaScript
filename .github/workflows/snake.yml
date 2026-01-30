@@ -1,0 +1,41 @@
+name: Generate Snake
+
+on:
+  # Wird jeden Tag um Mitternacht ausgeführt
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Erlaubt es, den Workflow manuell zu starten
+  workflow_dispatch:
+  
+  # Wird bei jedem Push auf den main-Branch ausgeführt
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Generiert die Schlangen-Animation aus den Contributions eines Users
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Lädt die Datei in einen speziellen Branch (output), damit sie via URL erreichbar ist
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
