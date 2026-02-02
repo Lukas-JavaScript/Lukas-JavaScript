@@ -7,7 +7,7 @@ I am a Developer and use this lanuages:
 4. Python 🐍: for logic, automation, and backend power
 5. C++🪄: for more performance(and because it's cool😃)
 
-<img alt="top Lanuages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukas-JavaScript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2">
+<img alt="top Lanuages" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbylukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2">
 
 ## 🚀 Goals
 
@@ -27,7 +27,7 @@ I sometimes break code just to learn how to fix it better.
 ## Snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lukas-JavaScript/Lukas-JavaScript/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lukas-JavaScript/Lukas-JavaScript/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lukas-JavaScript/Lukas-JavaScript/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake.svg">
 </picture>
