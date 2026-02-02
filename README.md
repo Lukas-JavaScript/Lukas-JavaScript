@@ -24,7 +24,7 @@ I’m open to feedback and love learning from other developers.
 
 I sometimes break code just to learn how to fix it better.
 
-## Snake 🐍
+## 🐍 My Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake-dark.svg">
