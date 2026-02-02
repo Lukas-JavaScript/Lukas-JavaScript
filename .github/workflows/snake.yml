@@ -1,14 +1,9 @@
 name: Generate Snake animation
 
 on:
-  # Automatisch alle 12 Stunden ausführen
   schedule:
     - cron: "* */12 * * *"
-  
-  # Erlaubt es, den Workflow jederzeit manuell unter "Actions" zu starten
   workflow_dispatch:
-  
-  # Führt den Workflow bei jedem Push auf den main-Branch aus
   push:
     branches:
     - main
@@ -28,8 +23,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Pusht den Inhalt von 'dist' in den 'output' Branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
