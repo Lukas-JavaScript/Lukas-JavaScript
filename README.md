@@ -15,6 +15,7 @@ I am a Developer and use this lanuages:
 <img width="14" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="c++" />
 <img width="14" />
+<br clear="both" />
 
 Icons by Devicon (MIT License)
 
