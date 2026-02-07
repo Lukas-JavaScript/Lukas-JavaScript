@@ -2,7 +2,7 @@
 <h1>Skills: </h1>
 
 <br>
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
        height="32" style="margin-right:23px;"/>
 
