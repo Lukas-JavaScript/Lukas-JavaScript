@@ -1,4 +1,5 @@
 <img src="top.svg">
+<h1>Skills: </h1>
 <br>
 <p display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
