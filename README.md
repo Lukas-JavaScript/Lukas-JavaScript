@@ -1,8 +1,8 @@
 <img src="top.svg">
 I am a Developer and use this lanuages:
 
+<br>
 <p align="left">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
@@ -11,7 +11,7 @@ I am a Developer and use this lanuages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-plain-wordmark.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
 </p>
-
+<br>
 
 Icons by Devicon (MIT License)
 
