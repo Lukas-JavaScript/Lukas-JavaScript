@@ -1,11 +1,22 @@
 <img src="top.svg">
 I am a Developer and use this lanuages:
 
-1. HTML📝: for structuring ideas
-2. CSS(SASS)📕📗📘📙: for styling them beautifully 
-3. JavaScript🧩:  for bringing them to life
-4. Python 🐍: for logic, automation, and backend power
-5. C++🪄: for more performance(and because it's cool😃)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="c++" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-plain-wordmark.svg" height="32" alt="c++" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="c++" />
+<img width="14" />
+
+Icons by Devicon (MIT License)
 
 <img alt="top Lanuages" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbylukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2">
 
