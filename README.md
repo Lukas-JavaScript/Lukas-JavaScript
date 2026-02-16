@@ -21,8 +21,6 @@
 
 Icons by Devicon (MIT License)
 
-<img alt="top Lanuages" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbylukas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2">
-
 ## 🚀 Goals
 
 I’m always learning and improving.
