@@ -34,7 +34,7 @@ I’m open to feedback and love learning from other developers.
 ## ⚙️ Fun Fact
 
 
-I sometimes break code just to learn how to fix it better.
+I sometimes break code just to learn how to fix it better. I prefer CLI to GUI.
 
 ## 🐍 My Contribution Snake
 
