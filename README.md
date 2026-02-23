@@ -21,17 +21,17 @@
 
 Icons by Devicon (MIT License)
 
-## 🚀 Goals
+## Goals
 
 I’m always learning and improving.
 My current goal: to become a stronger, more efficient developer through open collaboration.
 
-## 💬 How You Can Help
+## How You Can Help
 
 If you have suggestions or improvements, please open a Pull Request or start a Discussion.
 I’m open to feedback and love learning from other developers.
 
-## ⚙️ Fun Fact
+## Fun Fact
 
 
 I sometimes break code just to learn how to fix it better. I prefer CLI to GUI.
