@@ -22,7 +22,7 @@ Icons by Devicon (MIT License)
 ## Goals
 
 I’m always learning and improving.
-My current goal: to become a stronger, more efficient developer through open collaboration.
+My current goal: to become a stronger, more efficient developer.
 
 ## How You Can Help
 
@@ -30,7 +30,6 @@ If you have suggestions or improvements, please open a Pull Request or start a D
 I’m open to feedback and love learning from other developers.
 
 ## Fun Fact
-
 
 I sometimes break code just to learn how to fix it better and prefer CLI to GUI.
 
