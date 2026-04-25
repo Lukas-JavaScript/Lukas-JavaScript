@@ -40,3 +40,9 @@ I sometimes break code just to learn how to fix it better and prefer CLI to GUI.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/codedbylukas/codedbylukas/output/github-contribution-grid-snake.svg">
 </picture>
+
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=codedbylukas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=codedbylukas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=codedbylukas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
